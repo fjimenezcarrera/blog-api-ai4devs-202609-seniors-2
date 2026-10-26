@@ -1,0 +1,4 @@
+[submodule "submodules/blog-ai"]
+	path = submodules/blog-ai
+	url = git@github.com:fjimenezcarrera/blog-ai-ai4devs-202609-seniors-2.git
+	branch = s7/start
